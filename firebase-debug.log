@@ -1,0 +1,15 @@
+[debug] [2020-07-16T09:38:00.207Z] ----------------------------------------------------------------------
+[debug] [2020-07-16T09:38:00.209Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\JQ\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login --no-localhost
+[debug] [2020-07-16T09:38:00.209Z] CLI Version:   8.6.0
+[debug] [2020-07-16T09:38:00.209Z] Platform:      win32
+[debug] [2020-07-16T09:38:00.209Z] Node Version:  v12.18.2
+[debug] [2020-07-16T09:38:00.210Z] Time:          Thu Jul 16 2020 17:38:00 GMT+0800 (GMT+08:00)
+[debug] [2020-07-16T09:38:00.210Z] ----------------------------------------------------------------------
+[debug] [2020-07-16T09:38:00.210Z] 
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on any device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=726003839&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob
+[info] 
