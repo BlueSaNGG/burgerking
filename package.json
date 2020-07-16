@@ -53,8 +53,11 @@
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
-    "test": "node scripts/test.js --env=jsdom"
+    "test": "node scripts/test.js --env=jsdom",
+    "gh-pages":"react-scripts build && gh-pages -d build"
   },
+  "homepage": "/burgerking"
+  ,
   "jest": {
     "collectCoverageFrom": [
       "src/**/*.{js,jsx}"
