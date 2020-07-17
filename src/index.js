@@ -24,7 +24,7 @@ const store =createStore(rootReducer, composeEnhancers(
 
 ReactDOM.render(
 <Provider store = {store}>
-     <BrowserRouter basename='/burger'>
+     <BrowserRouter basename='/burgerking'>
           <App />
      </BrowserRouter>
 </Provider>
